@@ -1,0 +1,9 @@
+.list-group-item i{
+   float: right;
+   cursor: pointer;
+}
+
+
+input:focus{
+   outline: none;
+}
